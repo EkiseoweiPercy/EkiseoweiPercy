@@ -1,5 +1,5 @@
 -<h1 align="center">Hi 👋, I'm Ekiseowei Percy</h1>
-<h3 align="center">A passionate python developer from Nigeria</h3>
+<h3 align="center">A passionate python and HTML developer from Nigeria</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
